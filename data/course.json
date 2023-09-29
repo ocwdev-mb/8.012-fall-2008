@@ -1,0 +1,43 @@
+{
+  "term": "Fall",
+  "year": "2008",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ]
+  ],
+  "legacy_uid": "fe9f4118-d35a-6690-b3b1-04a3b79ba61e",
+  "instructors": {
+    "content": [
+      "5edc4f78-a554-8a03-df00-1ca66cd0ba9c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "deb48186-e782-c5ca-fb65-ac9037a69cca",
+    "website": "8-012-physics-i-classical-mechanics-fall-2008"
+  },
+  "course_title": "Physics I: Classical Mechanics",
+  "course_description": "This class is an introduction to classical mechanics for students who are comfortable with calculus. The main topics are: Vectors, Kinematics, Forces, Motion, Momentum, Energy, Angular Motion, Angular Momentum, Gravity, Planetary Motion, Moving Frames, and the Motion of Rigid Bodies.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.012",
+  "course_image_thumbnail": {
+    "content": "f298ebab-87cf-edd3-0a8a-94bab4f00dab",
+    "website": "8-012-physics-i-classical-mechanics-fall-2008"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams with Solutions"
+  ],
+  "site_uid": "2ef90b57-cf0e-4dd4-836b-ed0f1c585c91",
+  "site_short_id": "8.012-fall-2008",
+  "title": "Course Metadata"
+}
